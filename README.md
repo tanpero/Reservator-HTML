@@ -29,6 +29,26 @@ Reservator Project Branch for Hypertext Markup Language documents.
 
 
 
+---
+
+Currently, this project contains five styles of document styles.
+
+- light
+- newsprint
+- night
+- pixyll
+- whitey
+
+etc.
+
+If you have a style to share,
+
+here's a hearty hope to get your help to make the content of this project more colorful
+
+
+
+---
+
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/cn/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/3.0/cn/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/cn/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 China Mainland License</a>.
 
 
